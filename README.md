@@ -116,7 +116,7 @@ I’m currently focused on strengthening my programming foundations and learning
 <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
----
+
 
 <!-- ========================= -->
 <!-- PROJECTS PLACEHOLDER      -->
