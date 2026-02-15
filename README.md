@@ -123,33 +123,19 @@ I’m currently focused on strengthening my programming foundations and learning
 <!-- ========================= -->
 
 ## ✨ Featured Projects
+ 
+- 🏦 **Banking System – OOP in Python**  
+  Structured banking simulation with validation rules and object-oriented design.  
+  🔗 [View Repository](https://github.com/Yam1let/banking-system-oop-python)
 
-<!--
-### 🌱 Project Name
-Short description focused on what you learned and why it matters.
--->
-
----
-
-<!-- ========================= -->
-<!-- STATS (OPTIONAL)          -->
-<!-- ========================= -->
-
-<!--
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_title=true&hide_border=true&icon_color=8B5CF6&text_color=9CA3AF" />
-
-</div>
--->
-
----
-
-<!-- ========================= -->
-<!-- CLOSING                   -->
-<!-- ========================= -->
+- ✈️ **Flight Assignment System – OOP in Python**  
+  Pilot and flight management system with weekly hour constraints and business logic validation.  
+  🔗 [View Repository](https://github.com/Yam1let/flight-assignment-system-oop-python)
 
 <div align="center">
+ 
+
+
 
 💌 *Always open to learning, improving, and meaningful opportunities.*
 
