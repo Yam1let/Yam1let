@@ -124,17 +124,22 @@ I’m currently focused on strengthening my programming foundations and learning
 
 ## ✨ Featured Projects
  
+- 🌸 **Iris Flower Classifier – Machine Learning**  
+  Supervised classification model using Logistic Regression and scikit-learn.  
+  🔗 [View Repository](https://github.com/Yam1let/iris-classifier-machine-learning)
+
 - 🔢 **Matrix 2x2 – Linear Algebra in Python**  
-  Implementation of a 2x2 matrix with determinant, multiplication, and inverse operations using object-oriented design.  
+  Implementation of determinant, matrix multiplication, and inverse operations using object-oriented design.  
   🔗 [View Repository](https://github.com/Yam1let/matrix-2x2-oop-python)
 
 - ✈️ **Flight Assignment System – OOP in Python**  
-  Pilot and flight management system with weekly flight-hour constraints and business logic validation.  
+  Pilot and flight management system with business logic validation.  
   🔗 [View Repository](https://github.com/Yam1let/flight-assignment-system-oop-python)
 
 - 🏦 **Banking System – OOP in Python**  
   Structured banking simulation with validation rules and object-oriented design.  
   🔗 [View Repository](https://github.com/Yam1let/banking-system-oop-python)
+
 
 
 <div align="center">
